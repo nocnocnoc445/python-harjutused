@@ -1,0 +1,5 @@
+first_name = str(input("Sisesta nimi: "))
+last_name = str(input("Sisesta perekonnanimi: "))
+age = int(input("Sisesta vanus: "))
+city = str(input("Sisesta linn: "))
+print(f"Tere, {first_name} {last_name}! Sa oled {age}-aastane ja elad linnas {city}.")

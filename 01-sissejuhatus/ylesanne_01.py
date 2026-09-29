@@ -1,0 +1,18 @@
+# Ülesanne 1 – minu vastused:
+# 25       -> int    (täisarv)
+# "25"     -> str    (jutumärkides, seega tekst)
+# 25.0     -> float  (komakohaga arv)
+# "25.0"   -> str    (jutumärkides, seega tekst)
+# -10      -> int    (negatiivne täisarv)
+# "Python" -> str    (tekst)
+# 0        -> int    (täisarv)
+# 0.0      -> float  (komakohaga arv)
+
+print(type(25))
+print(type("25"))
+print(type(25.0))
+print(type("25.0"))
+print(type(-10))
+print(type("Python"))
+print(type(0))
+print(type(0.0))
