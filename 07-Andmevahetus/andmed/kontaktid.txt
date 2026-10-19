@@ -1,0 +1,4 @@
+Mari;mari@example.com;5551001
+Jüri;jyri@example.com;5551002
+Anna;anna@example.com;5551003
+Peeter;peeter@example.com;5551004

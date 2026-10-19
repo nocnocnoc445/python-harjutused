@@ -1,0 +1,5 @@
+Piim 2.50 10
+Leib 1.80 15
+Juust 4.20 6
+Õun 1.20 20
+Jogurt 0.90 12

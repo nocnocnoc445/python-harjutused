@@ -1,0 +1,3 @@
+Python on populaarne programmeerimiskeel.
+Python sobib hästi algajatele.
+Failide töötlemine on oluline oskus.

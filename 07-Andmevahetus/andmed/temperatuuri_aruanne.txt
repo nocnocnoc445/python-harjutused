@@ -1,0 +1,6 @@
+TEMPERATUURI ARUANNE
+--------------------
+Nädala keskmine: 14.86 °C
+Kõige soojem päev: Laupäev (19 °C)
+Kõige külmem päev: Kolmapäev (11 °C)
+Päevi üle 15 kraadi: 3

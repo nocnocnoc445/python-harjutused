@@ -1,0 +1,10 @@
+MÜÜGIARUANNE
+------------
+Piim        25.00 €
+Leib        27.00 €
+Juust       25.20 €
+Õun         24.00 €
+Jogurt      10.80 €
+------------
+Kogu müügitulu: 112.00 €
+Suurim müügitulu: Leib (27.00 €)

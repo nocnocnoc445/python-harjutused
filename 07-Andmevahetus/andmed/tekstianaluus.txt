@@ -1,0 +1,12 @@
+TEKSTIANALÜÜS: tekst.txt
+------------------------------
+Sõnu: 13
+Lauseid (ligikaudu): 3
+Pikim sõna: programmeerimiskeel (19 tähte)
+
+Viis sagedasemat sõna:
+1. python - 2 korda
+2. on - 2 korda
+3. populaarne - 1 korda
+4. programmeerimiskeel - 1 korda
+5. sobib - 1 korda

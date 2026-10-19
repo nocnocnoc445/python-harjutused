@@ -1,0 +1,6 @@
+Mari 5 4 5 3
+Jüri 3 4
+Anna 5 5 4 5 5
+Peeter 2 3 3
+Kati 4 5 5 4 5 5
+Martin 3 4 4

@@ -1,0 +1,18 @@
+HINNETE ARUANNE
+---------------
+Mari       5
+Jüri       3
+Anna       4
+Peeter     2
+Kati       5
+Martin     4
+Aaron      5
+---------------
+Õpilasi: 7
+Keskmine hinne: 4.00
+Hinnete sagedus:
+  5: 3
+  4: 2
+  3: 1
+  2: 1
+  1: 0

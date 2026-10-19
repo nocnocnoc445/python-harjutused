@@ -1,0 +1,17 @@
+ÕPILASTE TULEMUSTE ARUANNE
+------------------------------
+
+Mari       Keskmine: 85.00  Hinne: 4
+Jüri       Keskmine: 61.67  Hinne: 3
+Anna       Keskmine: 91.33  Hinne: 5
+Peeter     Keskmine: 46.67  Hinne: 1
+Kati       Keskmine: 81.67  Hinne: 4
+Martin     Keskmine: 69.67  Hinne: 3
+Laura      Keskmine: 93.33  Hinne: 5
+Rasmus     Keskmine: 50.00  Hinne: 2
+
+------------------------------
+Klassi keskmine: 72.42
+Parim õpilane: Laura
+Nõrgim õpilane: Peeter
+Positiivse hindega õpilasi: 6
