@@ -6,7 +6,7 @@ esitatud = input("Kas kõik tööd on esitatud (jah/ei): ").strip().lower()
 print()
 
 if punktid < 0 or punktid > 100 or puudumised < 0:
-    print("Vigased andmed. Punktisumma peab olema 0–100 ja puudumiste arv ei tohi olla negatiivne.")
+    print("Vigased andmed. Punktisumma peab olema 0-100 ja puudumiste arv ei tohi olla negatiivne.")
 else:
     if punktid >= 90:
         hinne = 5
