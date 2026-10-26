@@ -1,0 +1,3 @@
+Python on programmeerimiskeel.
+Failides saab andmeid säilitada.
+Failide töötlemine on kasulik oskus.

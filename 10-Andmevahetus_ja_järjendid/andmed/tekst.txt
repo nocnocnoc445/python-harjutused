@@ -1,0 +1,6 @@
+Python on populaarne programmeerimiskeel.
+Paljud õpilased alustavad programmeerimist pythoniga.
+Failide lugemine on lihtne oskus.
+PYTHON sobib hästi andmete töötlemiseks.
+Kodutööd tuleb esitada õigeaegselt.
+Ka see rida räägib Pythonist.
